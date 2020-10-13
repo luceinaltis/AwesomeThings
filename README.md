@@ -1,5 +1,5 @@
 # awesomeThings
-things that i think it is awesome service!
+Things that i think it is awesome service!
 
 ## web deploy
 
