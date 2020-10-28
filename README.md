@@ -12,3 +12,7 @@
 ## dev ops
 
 - **docker** : micro service
+
+## developer posts
+
+- **how to use async function in js** : [link](https://medium.com/front-end-weekly/async-await-is-not-about-making-asynchronous-code-synchronous-ba5937a0c11e)
