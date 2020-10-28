@@ -1,5 +1,5 @@
 # AwesomeThings
-> Things that i think it is awesome service!
+> Things that i think it is awesome!
 
 ## javascript library
 
