@@ -5,6 +5,10 @@
 
 - **uuid** : it makes a very long id, you can it as key id perfectly!
 
+## ssr
+
+- **next.js** : it makes a very good experience in ssr.
+
 ## web deploy
 
 - **vercel** : web server service using react, vue, angular etc for free
