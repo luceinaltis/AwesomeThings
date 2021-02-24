@@ -4,6 +4,9 @@
 ## javascript library
 
 - **uuid** : it makes a very long id, you can it as key id perfectly!
+- **jest** : unit test framework for javascript
+- **artillery** : lightweight load test library for nodejs
+- **supertest** : flow test library for nodejs 
 
 ## ssr
 
